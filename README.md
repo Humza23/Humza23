@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Human Rights First Asylum](https://www.humanrightsfirst.org/asylum)
 
-- 🌱 I’m currently learning **Python**
-
 - 💬 Ask me about **React!**
 
 - 📫 How to reach me **humza718@gmail.com**
