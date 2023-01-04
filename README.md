@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Humza</h1>
 <h3 align="center">A passionate fullstack web developer from New York</h3>
 
-- 🔭 I’m currently working on [Human Rights First Asylum](https://www.humanrightsfirst.org/asylum)
+- 🔭 I’m currently working at [Democracy Prep Public Schools](https://www.humanrightsfirst.org/asylum)
 
 - 💬 Ask me about **React!**
 
