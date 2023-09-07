@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working at [Democracy Prep Public Schools](https://www.democracyprep.org/)
 
-- 💬 Ask me about **React!**
+- 💬 Ask me about **JavaScript!**
 
-- 📫 How to reach me **humza718@gmail.com**
+- 📫 How to reach me **humza.m97@outlook.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
