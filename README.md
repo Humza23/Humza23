@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Humza</h1>
 <h3 align="center">A passionate Software Engineer from New York</h3>
 
-- 🔭 I’m currently working at [Democracy Prep Public Schools](https://www.democracyprep.org/)
-
-- 💬 Ask me about **JavaScript!**
-
 - 📫 How to reach me **humza.m97@outlook.com**
 
 
